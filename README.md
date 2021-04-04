@@ -7,4 +7,4 @@ python3 required
 
 #sudo pip3 install paramiko
 
-![Screenshot from 2021-04-04 21-07-19](https://user-images.githubusercontent.com/81927513/113519021-15480900-958a-11eb-8b75-643146c8f3bb.png)
+![app](https://user-images.githubusercontent.com/81927513/113519123-9e5f4000-958a-11eb-83e9-27a94be9176f.png)
