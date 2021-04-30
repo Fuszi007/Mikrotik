@@ -11,4 +11,4 @@ python3 required
 
 
 Docker file is included.
-Just run the script and everything starts automatically.
+Just run the script in Mikrotik_Docker directory and everything starts automatically.
