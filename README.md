@@ -8,3 +8,7 @@ python3 required
 #sudo pip3 install paramiko
 
 ![app](https://user-images.githubusercontent.com/81927513/113519123-9e5f4000-958a-11eb-83e9-27a94be9176f.png)
+
+
+Docker file is included.
+Just run the script and everything starts automatically.
